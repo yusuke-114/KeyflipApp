@@ -1,3 +1,7 @@
+<p>
+  <img src="docs/assets/app-icon.png" alt="Keyflip icon" width="96">
+</p>
+
 # Keyflip
 
 Keyflip is a macOS menu bar app that switches your keyboard input source automatically whenever you move to another app.
@@ -73,3 +77,8 @@ User-facing strings live in `Keyflip/Localizable.xcstrings`. To add a language:
 2. Translate the strings in the String Catalog.
 
 Input source and app names come from macOS, so they are already localized.
+
+## Links
+
+- [Privacy Policy](https://yusuke-114.github.io/KeyfilpApp/)
+- [License](LICENSE)
