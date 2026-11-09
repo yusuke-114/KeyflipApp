@@ -80,5 +80,5 @@ Input source and app names come from macOS, so they are already localized.
 
 ## Links
 
-- [Privacy Policy](https://yusuke-114.github.io/KeyfilpApp/)
+- [Privacy Policy](https://yusuke-114.github.io/KeyflipApp/)
 - [License](LICENSE)
